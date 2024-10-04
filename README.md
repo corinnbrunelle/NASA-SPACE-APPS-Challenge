@@ -13,7 +13,7 @@ Tutorials via the [PO.DAAC Cookbook](https://podaac.github.io/tutorials/quarto_t
 
 ## RADARSAT-1 & Radarsat constellation mission
 
-Data is accesible via the plateform [EODMS](https://www.eodms-sgdot.nrcan-rncan.gc.ca/). 
+Data are accesible via the plateform [EODMS](https://www.eodms-sgdot.nrcan-rncan.gc.ca/). 
 
 ## PACE
 
@@ -23,4 +23,4 @@ A Python Package for Visualizing and Analyzing Hyperspectral Data in Coastal Env
 
 ***
 
-NASA data are availble on [EarthData](https://search.earthdata.nasa.gov/search). These dataset can be combined with Sentinel-2 data via the [Copernicus browser](https://browser.dataspace.copernicus.eu/)
+NASA data are availble on [EarthData](https://search.earthdata.nasa.gov/search). Dataset can be combined with Sentinel-2 data via the [Copernicus browser](https://browser.dataspace.copernicus.eu/)
