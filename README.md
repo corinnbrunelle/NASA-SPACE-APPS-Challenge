@@ -17,6 +17,6 @@ Data is accesible via the plateform [EODMS](https://www.eodms-sgdot.nrcan-rncan.
 
 ## PACE
 
-A Python Package for Visualizing and Analyzing Hyperspectral Data in Coastal Environments
+All information on [PACE](https://pace.oceansciences.org/)
 
-Free software: MIT License Documentation: https://hypercoast.org
+A Python Package for Visualizing and Analyzing Hyperspectral Data in Coastal Environments is available : Free software MIT License Documentation: https://hypercoast.org
