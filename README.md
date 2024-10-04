@@ -20,3 +20,7 @@ Data is accesible via the plateform [EODMS](https://www.eodms-sgdot.nrcan-rncan.
 All information on [PACE](https://pace.oceansciences.org/)
 
 A Python Package for Visualizing and Analyzing Hyperspectral Data in Coastal Environments is available : Free software MIT License Documentation: https://hypercoast.org
+
+***
+
+NASA data are availble on [EarthData](https://search.earthdata.nasa.gov/search). These dataset can be combined with Sentinel-2 data via the [Copernicus browser](https://browser.dataspace.copernicus.eu/)
